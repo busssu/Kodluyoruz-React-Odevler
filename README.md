@@ -1,1 +1,1 @@
-"# Kodluyoruz-React-devler" 
+"# Kodluyoruz-React-Ödevler" 
